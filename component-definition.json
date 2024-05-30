@@ -418,10 +418,7 @@
                     "title": "Teaser Title",
                     "titleType": "h3",
                     "longDescr": "<p>Teaser Description</p>",
-                    "classes": [
-                      "light",
-                      "left"
-                    ]
+                    "classes": ["light", "left"]
                   }
                 }
               }
@@ -489,10 +486,7 @@
                   "titleType": "h3",
                   "description": "Description",
                   "subject": "/content/dam/summit-subject.png",
-                  "classes": [
-                    "light",
-                    "left"
-                  ]
+                  "classes": ["light", "left"]
                 }
               }
             }
@@ -525,10 +519,7 @@
                   "name": "Featured Authors",
                   "model": "featured-authors",
                   "authors_headingType": "h2",
-                  "classes": [
-                    "adobe",
-                    "left"
-                  ]
+                  "classes": ["adobe", "left"]
                 }
               }
             }
@@ -566,10 +557,7 @@
                   "name": "Featured Content",
                   "model": "featured-content",
                   "content_headingType": "h2",
-                  "classes": [
-                    "adobe",
-                    "left"
-                  ]
+                  "classes": ["adobe", "left"]
                 }
               }
             }
@@ -850,10 +838,7 @@
                   "title": "Teaser Title",
                   "titleType": "h3",
                   "longDescr": "<p>Teaser Description</p>",
-                  "classes": [
-                    "light",
-                    "left"
-                  ]
+                  "classes": ["light", "left"]
                 }
               }
             }
