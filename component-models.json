@@ -796,6 +796,18 @@
         "name": "rows",
         "value": "",
         "label": "Rows"
+      },
+      {
+        "component": "select",
+        "valueType": "string",
+        "name": "styleType",
+        "label": "Style Type",
+        "options": [
+          {
+            "name": "Table w/ alternating rows",
+            "value": "table"
+          }
+        ]
       }
     ]
   },

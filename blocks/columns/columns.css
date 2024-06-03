@@ -20,6 +20,14 @@
   width: 100%;
 }
 
+.columns.block.table {
+  border: 1px solid var(--spectrum-global-color-gray-200);
+}
+
+.columns.block.table div:nth-child(even){
+  background-color: var(--highlight-background-color);
+}
+
 @media (min-width: 600px) {
   .columns > div {
     grid-template-columns: 1fr 1fr;
