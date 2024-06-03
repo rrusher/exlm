@@ -800,7 +800,7 @@
       {
         "component": "select",
         "valueType": "string",
-        "name": "styleType",
+        "name": "classes",
         "label": "Style Type",
         "options": [
           {
