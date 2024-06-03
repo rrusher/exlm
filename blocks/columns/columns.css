@@ -20,12 +20,12 @@
   width: 100%;
 }
 
-.columns.block.table {
-  border: 1px solid var(--text-color);
+.columns.block.table > div {
+  border: 1px solid var(--non-spectrum-gainsboro-gray);
 }
 
-.columns.block.table > div:nth-child(even){
-  background-color: var(--highlight-background-color);
+.columns.block.table > div:nth-child(odd){
+  background-color: var(--non-spectrum-bg);
 }
 
 @media (min-width: 600px) {
