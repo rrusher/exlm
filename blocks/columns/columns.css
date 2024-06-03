@@ -20,12 +20,14 @@
   width: 100%;
 }
 
-.columns.block.table {
-  border-collapse: collapse;
+.columns.block.table > div {
+  border-top: 1px solid var(--non-spectrum-gainsboro-gray);
+  border-right: 1px solid var(--non-spectrum-gainsboro-gray);
+  border-left: 1px solid var(--non-spectrum-gainsboro-gray);
 }
 
-.columns.block.table > div {
-  border: 1px solid var(--non-spectrum-gainsboro-gray);
+.columns.block.table > div:last-child {
+  border-bottom: 1px solid var(--non-spectrum-gainsboro-gray);
 }
 
 .columns.block.table > div:nth-child(odd){
