@@ -2874,6 +2874,7 @@
         "component": "reference",
         "valueType": "string",
         "name": "img",
+        "required": true,
         "label": "Image"
       },
       {
@@ -2925,6 +2926,7 @@
         "valueType": "string",
         "name": "content_link",
         "value": "",
+        "required": true,
         "label": "Content Page"
       },
       {
