@@ -20,6 +20,10 @@
   width: 100%;
 }
 
+.columns.block.table {
+  border-collapse: collapse;
+}
+
 .columns.block.table > div {
   border: 1px solid var(--non-spectrum-gainsboro-gray);
 }
